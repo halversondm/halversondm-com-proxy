@@ -1,0 +1,4 @@
+.aws/
+*.iml
+.idea/
+.DS_Store
